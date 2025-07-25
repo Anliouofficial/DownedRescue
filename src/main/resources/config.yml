@@ -1,0 +1,17 @@
+# 倒地后等待救援的最大时间（秒）
+max-wait-time: 45
+
+# 被救起时恢复的生命值比例（0.0~1.0）
+revive-health: 0.2
+
+# 是否禁止倒地玩家跳跃
+prevent-jump: true
+
+# BossBar 相关设置
+bossbar:
+  # 颜色: PINK, BLUE, RED, GREEN, YELLOW, PURPLE, WHITE
+  color: RED
+  # 样式: SOLID, SEGMENTED_6, SEGMENTED_10, SEGMENTED_12, SEGMENTED_20
+  style: SEGMENTED_20
+  # 标题（支持颜色代码）
+  title: '§4§l救援倒计时'
