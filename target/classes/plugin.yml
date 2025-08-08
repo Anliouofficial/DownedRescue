@@ -1,0 +1,8 @@
+name: DownedRescue
+main: exe.example.downedRescue.RescuePlugin
+version: 1.0-SNAPSHOT
+api-version: "1.21"
+depend: [] # 无依赖插件
+softdepend: [] # 无软依赖
+authors: [DownedRescue] # 替换为您的名称
+description: 玩家倒地救援系统插件
